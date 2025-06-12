@@ -1,0 +1,1 @@
+// JavaScript logic for referral and email handling

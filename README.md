@@ -1,2 +1,2 @@
 # SwipeSmith Vault
-This is the complete passive income swipe funnel project.
+This is your deploy-ready passive income funnel.
